@@ -1,6 +1,9 @@
+compilation:
+cc -o server server.c
+cc -o client client.c
 
-1.First you have to run the servert
-2.You have to give the server ip (you have to manually enter to c file)
+1.First you have to run the server
+2.You have to give the server ip in (client.c) (you have to manually enter to c file)
 3.And you have to register your user name(user name should be six letter)
 4 once done the registration your connection is estabilished then you can send the message.
 5 exmple
